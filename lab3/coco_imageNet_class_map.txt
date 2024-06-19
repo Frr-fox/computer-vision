@@ -1,0 +1,120 @@
+ImageNet: 21, b'kite', COCO: 33, kite
+ImageNet: 94, b'hummingbird', COCO: 14, bird
+ImageNet: 129, b'spoonbill', COCO: 44, spoon
+ImageNet: 138, b'bustard', COCO: 5, bus
+ImageNet: 143, b'oystercatcher', COCO: 15, cat
+ImageNet: 153, b'Maltese dog', COCO: 16, dog
+ImageNet: 229, b'Old English sheepdog', COCO: 16, dog
+ImageNet: 229, b'Old English sheepdog', COCO: 18, sheep
+ImageNet: 230, b'Shetland sheepdog', COCO: 16, dog
+ImageNet: 230, b'Shetland sheepdog', COCO: 18, sheep
+ImageNet: 238, b'Greater Swiss Mountain dog', COCO: 16, dog
+ImageNet: 239, b'Bernese mountain dog', COCO: 16, dog
+ImageNet: 245, b'French bulldog', COCO: 16, dog
+ImageNet: 248, b'Eskimo dog', COCO: 16, dog
+ImageNet: 275, b'African hunting dog', COCO: 16, dog
+ImageNet: 282, b'tiger cat', COCO: 15, cat
+ImageNet: 283, b'Persian cat', COCO: 15, cat
+ImageNet: 284, b'Siamese cat', COCO: 15, cat
+ImageNet: 285, b'Egyptian cat', COCO: 15, cat
+ImageNet: 294, b'brown bear', COCO: 21, bear
+ImageNet: 295, b'American black bear', COCO: 21, bear
+ImageNet: 296, b'ice bear', COCO: 21, bear
+ImageNet: 297, b'sloth bear', COCO: 21, bear
+ImageNet: 334, b'porcupine', COCO: 41, cup
+ImageNet: 340, b'zebra', COCO: 22, zebra
+ImageNet: 358, b'polecat', COCO: 15, cat
+ImageNet: 375, b'colobus', COCO: 5, bus
+ImageNet: 383, b'Madagascar cat', COCO: 2, car
+ImageNet: 383, b'Madagascar cat', COCO: 15, cat
+ImageNet: 385, b'Indian elephant', COCO: 20, elephant
+ImageNet: 386, b'African elephant', COCO: 20, elephant
+ImageNet: 403, b'aircraft carrier', COCO: 2, car
+ImageNet: 409, b'analog clock', COCO: 74, clock
+ImageNet: 414, b'backpack', COCO: 24, backpack
+ImageNet: 423, b'barber chair', COCO: 56, chair
+ImageNet: 439, b'bearskin', COCO: 21, bear
+ImageNet: 440, b'beer bottle', COCO: 39, bottle
+ImageNet: 444, b'bicycle-built-for-two', COCO: 1, bicycle
+ImageNet: 448, b'birdhouse', COCO: 14, bird
+ImageNet: 449, b'boathouse', COCO: 8, boat
+ImageNet: 451, b'bolo tie', COCO: 27, tie
+ImageNet: 453, b'bookcase', COCO: 73, book
+ImageNet: 454, b'bookshop', COCO: 73, book
+ImageNet: 455, b'bottlecap', COCO: 39, bottle
+ImageNet: 457, b'bow tie', COCO: 27, tie
+ImageNet: 466, b'bullet train', COCO: 6, train
+ImageNet: 474, b'cardigan', COCO: 2, car
+ImageNet: 475, b'car mirror', COCO: 2, car
+ImageNet: 476, b'carousel', COCO: 2, car
+ImageNet: 477, b"carpenter's kit", COCO: 2, car
+ImageNet: 478, b'carton', COCO: 2, car
+ImageNet: 479, b'car wheel', COCO: 2, car
+ImageNet: 484, b'catamaran', COCO: 15, cat
+ImageNet: 508, b'computer keyboard', COCO: 66, keyboard
+ImageNet: 514, b'cowboy boot', COCO: 19, cow
+ImageNet: 515, b'cowboy hat', COCO: 19, cow
+ImageNet: 530, b'digital clock', COCO: 74, clock
+ImageNet: 537, b'dogsled', COCO: 16, dog
+ImageNet: 544, b'Dutch oven', COCO: 69, oven
+ImageNet: 554, b'fireboat', COCO: 8, boat
+ImageNet: 559, b'folding chair', COCO: 56, chair
+ImageNet: 561, b'forklift', COCO: 42, fork
+ImageNet: 565, b'freight car', COCO: 2, car
+ImageNet: 569, b'garbage truck', COCO: 7, truck
+ImageNet: 575, b'golfcart', COCO: 2, car
+ImageNet: 603, b'horse cart', COCO: 2, car
+ImageNet: 603, b'horse cart', COCO: 17, horse
+ImageNet: 620, b'laptop', COCO: 63, laptop
+ImageNet: 625, b'lifeboat', COCO: 8, boat
+ImageNet: 647, b'measuring cup', COCO: 41, cup
+ImageNet: 651, b'microwave', COCO: 68, microwave
+ImageNet: 654, b'minibus', COCO: 5, bus
+ImageNet: 659, b'mixing bowl', COCO: 45, bowl
+ImageNet: 673, b'mouse', COCO: 64, mouse
+ImageNet: 674, b'mousetrap', COCO: 64, mouse
+ImageNet: 681, b'notebook', COCO: 73, book
+ImageNet: 684, b'ocarina', COCO: 2, car
+ImageNet: 690, b'oxcart', COCO: 2, car
+ImageNet: 703, b'park bench', COCO: 13, bench
+ImageNet: 704, b'parking meter', COCO: 12, parking meter
+ImageNet: 705, b'passenger car', COCO: 2, car
+ImageNet: 720, b'pill bottle', COCO: 39, bottle
+ImageNet: 737, b'pop bottle', COCO: 39, bottle
+ImageNet: 760, b'refrigerator', COCO: 72, refrigerator
+ImageNet: 761, b'remote control', COCO: 65, remote
+ImageNet: 765, b'rocking chair', COCO: 56, chair
+ImageNet: 779, b'school bus', COCO: 5, bus
+ImageNet: 791, b'shopping cart', COCO: 2, car
+ImageNet: 809, b'soup bowl', COCO: 45, bowl
+ImageNet: 814, b'speedboat', COCO: 8, boat
+ImageNet: 817, b'sports car', COCO: 2, car
+ImageNet: 828, b'strainer', COCO: 6, train
+ImageNet: 829, b'streetcar', COCO: 2, car
+ImageNet: 859, b'toaster', COCO: 70, toaster
+ImageNet: 861, b'toilet seat', COCO: 61, toilet
+ImageNet: 864, b'tow truck', COCO: 7, truck
+ImageNet: 867, b'trailer truck', COCO: 7, truck
+ImageNet: 874, b'trolleybus', COCO: 5, bus
+ImageNet: 878, b'typewriter keyboard', COCO: 66, keyboard
+ImageNet: 879, b'umbrella', COCO: 25, umbrella
+ImageNet: 883, b'vase', COCO: 75, vase
+ImageNet: 892, b'wall clock', COCO: 74, clock
+ImageNet: 898, b'water bottle', COCO: 39, bottle
+ImageNet: 906, b'Windsor tie', COCO: 27, tie
+ImageNet: 907, b'wine bottle', COCO: 39, bottle
+ImageNet: 910, b'wooden spoon', COCO: 44, spoon
+ImageNet: 917, b'comic book', COCO: 73, book
+ImageNet: 920, b'traffic light', COCO: 9, traffic light
+ImageNet: 921, b'book jacket', COCO: 73, book
+ImageNet: 934, b'hotdog', COCO: 16, dog
+ImageNet: 937, b'broccoli', COCO: 50, broccoli
+ImageNet: 946, b'cardoon', COCO: 2, car
+ImageNet: 950, b'orange', COCO: 49, orange
+ImageNet: 953, b'pineapple', COCO: 47, apple
+ImageNet: 954, b'banana', COCO: 46, banana
+ImageNet: 956, b'custard apple', COCO: 47, apple
+ImageNet: 959, b'carbonara', COCO: 2, car
+ImageNet: 963, b'pizza', COCO: 53, pizza
+ImageNet: 968, b'cup', COCO: 41, cup
+ImageNet: 999, b'toilet tissue', COCO: 61, toilet
